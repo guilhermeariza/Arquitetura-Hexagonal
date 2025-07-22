@@ -1,0 +1,8 @@
+# Evita copiar arquivos e pastas desnecessários para a imagem Docker
+/target
+/.idea
+/.git
+*.iml
+*.log
+*.md
+
